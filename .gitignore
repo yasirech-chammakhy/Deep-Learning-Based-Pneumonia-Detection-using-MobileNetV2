@@ -1,7 +1,7 @@
-../notebooks/EDA_pneumonia.ipynb
-../notebooks/MobileNetV2_Pneumonia.ipynb
-../notebooks/pneumonia_detection_CNN_with_DataAugmen_Nandini.ipynb
-../notebooks/pneumonia_detection_CNNDataAug_Model2_Nandini.ipynb
-../notebooks/pneumonia_detection_EDA_Nandini.ipynb
-../notebooks/pneumonia_detection_RESNET50V2_Nandini.ipynb
-../notebooks/Pneumonia_model1EDA_pneumonia.ipynb
+/notebooks/EDA_pneumonia.ipynb
+/notebooks/MobileNetV2_Pneumonia.ipynb
+/notebooks/pneumonia_detection_CNN_with_DataAugmen_Nandini.ipynb
+/notebooks/pneumonia_detection_CNNDataAug_Model2_Nandini.ipynb
+/notebooks/pneumonia_detection_EDA_Nandini.ipynb
+/notebooks/pneumonia_detection_RESNET50V2_Nandini.ipynb
+/notebooks/Pneumonia_model1EDA_pneumonia.ipynb
